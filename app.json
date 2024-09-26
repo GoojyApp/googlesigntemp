@@ -4,10 +4,10 @@
     "slug": "googlesigntemp",
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.example.with-new-arch"
+      "bundleIdentifier": "com.goojyapp.googlesigntemp"
     },
     "android": {
-      "package": "com.example.withnewarch"
+      "package": "com.goojyapp.googlesigntemp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
@@ -24,6 +24,12 @@
           }
         }
       ]
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "0e060511-53a4-42cf-8ebf-de20a4ac1b8f"
+      }
+    },
+    "owner": "avoosh"
   }
 }
