@@ -26,7 +26,7 @@ export default function App() {
       />
 
       <Text style={{ fontSize: 22, marginTop: 15, color: '#fff' }}>
-        New Architecture: <Text style={{ fontWeight: 'bold' }}>Enabled</Text>
+        New Architecture: <Text style={{ fontWeight: 'bold' }}>Enabled 1.0.0</Text>
       </Text>
 
       < StatusBar style="auto" />
